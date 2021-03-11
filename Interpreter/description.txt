@@ -1,0 +1,5 @@
+Defines the grammar of a particular language in an object oriented way
+
+It is evaluated by the interpreter itself
+
+Should be used when the grammar is relatively simple
