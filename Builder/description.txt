@@ -1,0 +1,4 @@
+Pattern used to create objects from a bunch of other objects
+Parts will be independent of the main object
+creation of the parts will be hidden
+only the builder knows the specifics
