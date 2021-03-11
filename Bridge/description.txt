@@ -1,0 +1,9 @@
+Decouple an abstraction from its implementation so that the two can vary independently
+
+Progressively adding functionality while separating out major differences using abstract classes
+
+Use when you want to be able to change both the abstractions (abstract class) and concrete classes independently
+
+Use when you want the first abstract class to define rules
+
+Use if an abstract class has a reference to the device and it defines abstract methods that will be defined
