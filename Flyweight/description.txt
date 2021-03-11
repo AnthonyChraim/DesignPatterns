@@ -1,0 +1,6 @@
+Used when you need to create a  large number of objects (100k +)
+
+To reduce memory usage, you share objets that are similar in some way (instead of creating new ones)
+
+Intrinsic state: What is shared (color)
+Extrinsic state: What is different (Size)
