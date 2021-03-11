@@ -1,0 +1,5 @@
+Used when creating new objects (instances) by cloning other objects
+
+It allows for the adding of any subclass instance of a known superclass at runtime
+
+used when there are numerous potential classes that you want to only use if needed at runtime
